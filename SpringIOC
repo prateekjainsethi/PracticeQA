@@ -1,7 +1,34 @@
-AOP Concepts
+================= AOP Concepts ===============
 
 https://medium.com/@toimrank/spring-boot-aop-with-example-a2757e389d0b
 
-Spring boot Actuator
+================ Spring boot Actuator =============
 
 https://medium.com/@toimrank/spring-boot-actuator-fc00fc7c306b
+
+Spring boot actuator is part of Spring Boot from day one. Actuator helps us to Monitor application, traffic, health check-up, information related to caching. Actuators can be access via JMX or HTTP
+
+enable the actuator
+management.endpoint.web.exposoure.include=*
+
+disabled the actuator
+management.endpoint.shutdown.enabled=true
+
+
+======================  OAuth2.0 =====================
+OAuth 2.0 allows us to access the resource server with the help of an access token. The access token is generated through the authorization server using the client ID and client Secret.
+
+
+==============  Exception Handling ==================
+Controller Advice
+The @ControllerAdvice is an annotation, to handle the exceptions globally.
+
+Exception Handler
+The @ExceptionHandler is an annotation used to handle the specific exceptions and sending the custom responses to the client.
+
+
+
+
+
+
+
