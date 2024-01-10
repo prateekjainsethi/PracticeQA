@@ -16,3 +16,11 @@ Exception Handling in Spring
 
 @QueryParam is a JAX-RS framework annotation and @RequestParam is from Spring.
 
+
+-------- Load Balancing at client side -------
+Client Side Load Balance
+Feign Client
+
+Rest Ta
+
+
