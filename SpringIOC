@@ -8,3 +8,11 @@ https://medium.com/@toimrank/spring-boot-actuator-fc00fc7c306b
 
 JWT
 JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
+
+Exception Handling in Spring 
+@ExceptionHandler - For the specific class
+@ControllerAdvice - It is used for global handling of the Exception in the Spring
+
+
+@QueryParam is a JAX-RS framework annotation and @RequestParam is from Spring.
+
