@@ -27,7 +27,12 @@ service to service communication
 make a interface
 
 
----------- Cloud Watch ----------------------
+--------- Rest Template -------
+
+Rest Template
+Outside the domain
+AutoWired
+
 
 
 
@@ -37,12 +42,12 @@ Open/closed.
 Liskov substitution.
 Interface segregation.
 Dependency inversion.
-Rest Template
-Outside the domain
-AutoWired
+
+---------- Cloud Watch ----------------------
 
 ----------  SAGA Design Pattern
 2 Phase Commit
+
 
 
 
