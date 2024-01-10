@@ -26,6 +26,17 @@ Round Robin, Eureka, API
 service to service communication
 make a interface
 
+
+---------- Cloud Watch ----------------------
+
+
+
+What are the SOLID principles of object-oriented design?
+Single responsibility.
+Open/closed.
+Liskov substitution.
+Interface segregation.
+Dependency inversion.
 Rest Template
 Outside the domain
 AutoWired
