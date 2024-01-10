@@ -6,6 +6,8 @@ Spring boot Actuator
 
 https://medium.com/@toimrank/spring-boot-actuator-fc00fc7c306b
 
+Securing the Microservices
+OAuth
 JWT
 JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
 
@@ -20,7 +22,18 @@ Exception Handling in Spring
 -------- Load Balancing at client side -------
 Client Side Load Balance
 Feign Client
+Round Robin, Eureka, API
+service to service communication
+make a interface
 
-Rest Ta
+Rest Template
+Outside the domain
+AutoWired
+
+----------  SAGA Design Pattern
+2 Phase Commit
+
+
+
 
 
