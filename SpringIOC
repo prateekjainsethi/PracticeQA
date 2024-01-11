@@ -27,6 +27,10 @@ service to service communication
 make a interface
 
 
+
+@Controller is used to declare common web controllers which can return HTTP response but @RestController is used to create controllers for REST APIs which can return JSON.
+
+
 --------- Rest Template -------
 
 Rest Template
