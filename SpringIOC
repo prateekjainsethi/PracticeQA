@@ -38,8 +38,6 @@ Outside the domain
 AutoWired
 
 
-
-
 What are the SOLID principles of object-oriented design?
 Single responsibility.
 Open/closed.
@@ -54,6 +52,10 @@ Dependency inversion.
 
 
 
+Service Discovery --  Eureka Server
+Check the Port and ivve response 
 
+
+Async
 
 
