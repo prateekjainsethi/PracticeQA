@@ -56,6 +56,14 @@ Service Discovery --  Eureka Server
 Check the Port and ivve response 
 
 
+In summary, while both @Controller and @RestController are used for handling HTTP requests, 
+@Controller is typically used for traditional web applications where views are rendered, 
+while @RestController is used for building RESTful APIs where the response is data-centric and doesn't involve rendering views. 
+The choice between them depends on whether you're building a web application with views or a RESTful API that returns data.
+
+
+
+
 Async
 
 
