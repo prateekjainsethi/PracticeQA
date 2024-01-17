@@ -5,3 +5,17 @@
 
         // Print the sorted list
         sortedList.forEach(obj -> System.out.println(obj.getValue()));
+
+
+printing the duplicate values
+
+SELECT Name, COUNT(Name) AS Occurrences
+FROM PersonTable
+GROUP BY Name
+HAVING COUNT(Name) > 1;
+
+why we use the indexing in the database
+
+
+
+
