@@ -1,0 +1,7 @@
+ // Sorting using Stream
+        List<MyObject> sortedList = myList.stream()
+                .sorted((obj1, obj2) -> Integer.compare(obj1.getValue(), obj2.getValue()))
+                .collect(Collectors.toList());
+
+        // Print the sorted list
+        sortedList.forEach(obj -> System.out.println(obj.getValue()));
