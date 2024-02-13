@@ -1,4 +1,10 @@
 Difference between RestAPi and SDK
+https://aws.amazon.com/compare/the-difference-between-sdk-and-api/#:~:text=use%20SDKs%20vs.-,APIs,both%20when%20you%20develop%20software.
+
 Convert Json to Map using stream API
+JsonObject jsonObj = new jsonObject();
+Map<String, String> mapObj = jsonObj.keySet().stream().collect(Collectors.toMap(key -> key, key -> jsonObj.get(key)));
+
 Difference between interface and Functional interface
+
 list of predefined Functional interface in java8
