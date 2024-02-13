@@ -15,6 +15,8 @@ GROUP BY Name
 HAVING COUNT(Name) > 1;
 
 why we use the indexing in the database
+CREATE INDEX idx_lastname
+ON Persons (LastName);
 
 
 
