@@ -1,1 +1,12 @@
+------- Kafka ---------
+Async Communication
+Publish Subscriber Model
+publisher publish data to ----> topic
+durable messaging system
+created by linkdin peoplw
+
+------- Usages -------
+Handling logs, send data from one system to another, Streaming
+maintains the Order
+Showing logs on splunk
 
